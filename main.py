@@ -1,5 +1,5 @@
-from cam_modules.thermal_camera_init import *
-from cam_modules.uvctypes import *
+from thermal_camera_init import *
+from uvctypes import *
 import cv2
 
 #### To stream thermal cam frames
