@@ -1,5 +1,5 @@
 from queue import Queue
-from cam_modules.uvctypes import *
+from uvctypes import *
 import numpy as np
 import cv2
 
